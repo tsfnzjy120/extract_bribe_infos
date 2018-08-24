@@ -1,2 +1,1 @@
-# extract_bribe_infos
-extract structual data in documents of bribe crime
+## For any question, mail to tsfnzjy120@ruc.edu.cn
